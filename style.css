@@ -1,0 +1,14 @@
+body{
+    background-color: rgb(13, 4, 46);
+}
+.clock{
+     color: #78B723;
+     font-size: 60px;
+     font-family: 'Oswald', sans-serif;
+     letter-spacing: 7px;
+     
+     position: absolute;
+     left: 50%;
+     top: 50%;
+     transform: translateX(-50%) translateY(-50%);
+}
